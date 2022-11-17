@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Francois+One&family=Noto+Serif:ital,wght@0,400;0,700;1,400&family=Press+Start+2P&family=Signika:wght@300;400&family=Special+Elite&family=VT323&family=Zen+Antique&display=swap');
+
+body {
+  background-color: #B8E2F2
+}
+
+
+*{
+  text-align:center;
+  font-family: Signika;
+  text-shadow: 5px 5px gray;
+
+}
+h1 {
+  color:white;
+  font-style: normal;
+  font-size: 100px;
+  border-width: 5px;
+  margin-left: 300px;
+  margin-right: 300px;
+  border-style:dotted;
+  border-color: white;
+
+
+}
+
+#girls {
+  display:flex;
+}
+
+.item {
+  margin:20px;
+}
+.cover {
+  width:100px;
+
+}
