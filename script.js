@@ -65,8 +65,6 @@ function createElementProper(incomingJSON){
   newDesc.classList.add("desc");
   newDesc.innerText = incomingJSON["desc"];
   newGirl.appendChild(newDesc);
-  //add & display song titles
 
-  //add to html page
   valItems.appendChild(newGirl);
 }
